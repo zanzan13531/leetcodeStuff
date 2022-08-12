@@ -1,2 +1,3 @@
 # leetcodeStuff
- for my leetcode solutions i guess
+ my solutions probably suck
+
