@@ -1,3 +1,6 @@
+// time: O(nlog(n))
+// space: O(1) apparently, though O(n) in java
+
 class Solution {
     public boolean isAnagram(String s, String t) {
         ArrayList<String> s1 = new ArrayList<String>(Arrays.asList(s.split("")));

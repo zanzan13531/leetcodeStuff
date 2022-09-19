@@ -1,3 +1,8 @@
+// time: O(NK) where n is the number of strings and k is the length of the strings
+// space: O(NK)
+
+
+
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         List<int[]> anagrams = new ArrayList<int[]>();

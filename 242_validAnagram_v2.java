@@ -1,3 +1,6 @@
+// time: O(n)
+// spapce: O(1)
+
 class Solution {
     public boolean isAnagram(String s, String t) {
         int[] s1 = new int[26];
