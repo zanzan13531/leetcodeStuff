@@ -1,3 +1,7 @@
+// time complexity: O(n)
+// space complexity: O(n)
+
+
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stacky = new Stack<Character>();
