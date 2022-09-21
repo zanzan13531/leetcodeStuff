@@ -1,3 +1,7 @@
+// time: O(nlog(n))
+// space: O(n)
+
+
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         
